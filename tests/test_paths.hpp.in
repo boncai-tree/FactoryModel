@@ -1,0 +1,3 @@
+#pragma once
+
+inline constexpr char const kWorkshopExamplesDir[] = "@WORKSHOP_EXAMPLES_PATH@";

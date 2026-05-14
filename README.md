@@ -31,9 +31,7 @@ cmake --build build
 ```
 
 Исполняемый файл будет создан как `build/workshop` (или `build/workshop.exe`
-под Windows / MinGW). Для чистой пересборки можно удалить каталог `build/` и
-снова выполнить команды выше.
-
+под Windows / MinGW).
 ### Под Windows c MinGW
 
 ```powershell

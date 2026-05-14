@@ -23,9 +23,6 @@ cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build
 ```
 
-При первой конфигурации понадобится доступ в интернет — CMake скачает зависимость
-Google Test через `FetchContent`.
-
 ### Только приложение (без тестов и без загрузки Google Test)
 
 ```bash
